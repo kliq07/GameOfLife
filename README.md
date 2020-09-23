@@ -1,7 +1,7 @@
 # GameOfLife
 Ozow Conway's Game of Life
 
-TDD project to showcase  the Conway'sGame of Life
+TDD project to showcase  the Conway's Game of Life
 Cases to test are from the rules to play the game of life:
 
 1. Any live cell with fewer than two live neighbors dies (underpopulation).
