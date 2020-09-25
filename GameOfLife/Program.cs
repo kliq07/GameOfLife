@@ -77,11 +77,11 @@ namespace GameOfLife
                     {
                         if (board[i, j] == 0)
                         {
-                            Console.Write("☺");
+                            Console.Write("* ");
                         }
                         else
                         {
-                            Console.Write("☻");
+                            Console.Write("☻ ");
                         }
 
                     }
@@ -184,11 +184,11 @@ namespace GameOfLife
                 {
                     if (board[i, j] == 0)
                     {
-                        Console.Write("☺");
+                        Console.Write("* ");
                     }
                     else
                     {
-                        Console.Write("☻");
+                        Console.Write("☻ ");
                     }
 
                 }
