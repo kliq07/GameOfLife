@@ -4,4 +4,3 @@ C:\Users\Chrissy\source\repos\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
 C:\Users\Chrissy\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
 C:\Users\Chrissy\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
 C:\Users\Chrissy\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
-C:\Users\Chrissy\source\repos\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojAssemblyReference.cache
